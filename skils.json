@@ -2,5 +2,5 @@
 	"skils": {
 			"hard": ["git","api","Android_Studio", "Postman", "Charles", "Fidler", "JSON", "XML", "SQL", "Jmeter", "Scrum", "Python"],
 			"soft": ["communiation_culture", "self-discipline", "detoxification"]
-		 }
+		 	 }
 }
